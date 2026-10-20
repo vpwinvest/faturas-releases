@@ -1,6 +1,6 @@
 {
   "version": "0.2.0",
-  "notes": "Versao inicial com pesquisa, pre-visualizador, deteccao automatica e definicoes.",
+  "notes": "Pesquisa local de PDFs: indexacao incremental, pre-visualizador, deteccao automatica de novos documentos, pesquisa por cabecalho/total, definicoes e atualizacoes.",
   "mac": "https://github.com/vpwinvest/faturas-releases/releases/download/v0.2.0/Faturas-0.2.0-arm64.dmg",
-  "win": ""
+  "win": "https://github.com/vpwinvest/faturas-releases/releases/download/v0.2.0/Faturas-Setup-0.2.0.exe"
 }
